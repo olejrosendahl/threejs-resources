@@ -10,8 +10,9 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 
 ## Examples
 
-## Extensions
+## Extensions / Libraries
 * http://www.threejsgames.com/extensions/
+* https://github.com/spite/Wagner
 
 ## Slides
 * http://jsinside.com/data/how-to-use-threex-game-extension-for-threejs/slides/
