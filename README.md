@@ -18,3 +18,4 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 * http://jsinside.com/data/how-to-use-threex-game-extension-for-threejs/slides/
 
 ## Tutorials
+* http://learningthreejs.com/
