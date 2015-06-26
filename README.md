@@ -25,3 +25,4 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 
 ## Tutorials
 * http://learningthreejs.com/
+* https://aerotwist.com/tutorials/getting-started-with-three-js/
