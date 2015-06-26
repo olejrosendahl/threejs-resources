@@ -17,6 +17,9 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 ## Performance
 * http://www.ianww.com/blog/2012/11/04/optimizing-three-dot-js-performance-simulating-tens-of-thousands-of-independent-moving-objects/
 
+## Shaders
+* https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/
+
 ## Slides
 * http://jsinside.com/data/how-to-use-threex-game-extension-for-threejs/slides/
 
