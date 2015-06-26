@@ -14,7 +14,7 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 * http://www.threejsgames.com/extensions/
 * https://github.com/spite/Wagner
 
-== Performance
+## Performance
 * http://www.ianww.com/blog/2012/11/04/optimizing-three-dot-js-performance-simulating-tens-of-thousands-of-independent-moving-objects/
 
 ## Slides
