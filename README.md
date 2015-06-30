@@ -1,7 +1,11 @@
 # three.js-resources
 Collection of Articles, Blogs and Tutorials for Three.js related development
 
+## Animation
+* https://github.com/tweenjs/tween.js/
+
 ## Articles
+* http://learningthreejs.com/blog/2011/08/17/tweenjs-for-smooth-animation/
 
 ## Blogs
 * http://john-chapman-graphics.blogspot.fr/
