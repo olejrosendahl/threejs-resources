@@ -19,6 +19,9 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 * http://www.threejsgames.com/extensions/
 * https://github.com/spite/Wagner
 
+## Gamepads / Joysticks
+* http://www.gamepadjs.com/
+
 ## Particles
 * https://github.com/squarefeet/ShaderParticleEngine
 * https://github.com/zz85/sparks.js/ (included in Three.js)
