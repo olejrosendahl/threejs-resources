@@ -37,6 +37,9 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 ## Slides
 * http://jsinside.com/data/how-to-use-threex-game-extension-for-threejs/slides/
 
+## Storage
+* https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+
 ## Tutorials
 * http://learningthreejs.com/
 * https://aerotwist.com/tutorials/getting-started-with-three-js/
