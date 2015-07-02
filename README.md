@@ -21,6 +21,7 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 
 ## Gamepads / Joysticks
 * http://www.gamepadjs.com/
+* https://github.com/austinhallock/html5-virtual-game-controller
 
 ## Particles
 * https://github.com/squarefeet/ShaderParticleEngine
