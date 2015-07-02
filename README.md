@@ -2,45 +2,45 @@
 Collection of Articles, Blogs and Tutorials for Three.js related development
 
 ## Animation
-* https://github.com/tweenjs/tween.js/
-* http://learningthreejs.com/blog/2011/08/17/tweenjs-for-smooth-animation/
+* [Tween.js](https://github.com/tweenjs/tween.js/)
+* [Tween.js for Smooth Animation](http://learningthreejs.com/blog/2011/08/17/tweenjs-for-smooth-animation/)
 
 ## Blogs
-* http://john-chapman-graphics.blogspot.fr/
+* [john-chapman-graphics](http://john-chapman-graphics.blogspot.fr/)
 
 ## Demos
 
 ## Examples
-* http://stemkoski.github.io/Three.js/
+* [Stemkoski's Examples](http://stemkoski.github.io/Three.js/)
 
 ## Extensions / Libraries
-* http://www.threejsgames.com/extensions/
-* https://github.com/spite/Wagner
+* [threex](http://www.threejsgames.com/extensions/)
+* [Wagner](https://github.com/spite/Wagner)
 
 ## Gamepads / Joysticks
-* http://www.gamepadjs.com/
-* https://github.com/austinhallock/html5-virtual-game-controller
+* [gamepadjs](http://www.gamepadjs.com/)
+* [HTML5 Virtual Game Controller](https://github.com/austinhallock/html5-virtual-game-controller)
 
 ## Particles
-* https://github.com/squarefeet/ShaderParticleEngine
-* https://github.com/zz85/sparks.js/ (included in Three.js)
+* [ShaderParticleEngine](https://github.com/squarefeet/ShaderParticleEngine)
+* [Spark.js](https://github.com/zz85/sparks.js/) (included in Three.js)
 
 ## Performance
-* http://www.ianww.com/blog/2012/11/04/optimizing-three-dot-js-performance-simulating-tens-of-thousands-of-independent-moving-objects/
-* https://developers.google.com/web/fundamentals/performance/index?hl=en
+* [optimizing-three-dot-js-performance-simulating-tens-of-thousands-of-independent-moving-objects](http://www.ianww.com/blog/2012/11/04/optimizing-three-dot-js-performance-simulating-tens-of-thousands-of-independent-moving-objects/)
+* [Optimizing Performance (Google)](https://developers.google.com/web/fundamentals/performance/index?hl=en)
 
 ## Physics
-* https://github.com/chandlerprall/Physijs
+* [Physijs](https://github.com/chandlerprall/Physijs)
 
 ## Shaders
-* https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/
+* [A Introduction to Shaders Part 1](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/)
 
 ## Slides
-* http://jsinside.com/data/how-to-use-threex-game-extension-for-threejs/slides/
+* [How to use Threex Game extensions for Three.js](http://jsinside.com/data/how-to-use-threex-game-extension-for-threejs/slides/)
 
 ## Storage
-* https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+* [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 
 ## Tutorials
-* http://learningthreejs.com/
-* https://aerotwist.com/tutorials/getting-started-with-three-js/
+* [Learning Three.js](http://learningthreejs.com/)
+* [Getting Started with Three.js](https://aerotwist.com/tutorials/getting-started-with-three-js/)
