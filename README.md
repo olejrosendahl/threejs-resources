@@ -19,6 +19,10 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 * http://www.threejsgames.com/extensions/
 * https://github.com/spite/Wagner
 
+## Particles
+* https://github.com/squarefeet/ShaderParticleEngine
+* https://github.com/zz85/sparks.js/ (included in Three.js)
+
 ## Performance
 * http://www.ianww.com/blog/2012/11/04/optimizing-three-dot-js-performance-simulating-tens-of-thousands-of-independent-moving-objects/
 
