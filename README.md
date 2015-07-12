@@ -35,6 +35,9 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 * [threex.rendererstats](https://github.com/jeromeetienne/threex.rendererstats)
 * [Google Web Tracing Framework](https://github.com/google/tracing-framework)
 
+## Networking & Multiplayer
+* [Opinion Synchronous RTS Engines and a Tale of Desyncs](http://www.gamasutra.com/view/news/126022/Opinion_Synchronous_RTS_Engines_And_A_Tale_of_Desyncs.php)
+
 ## Physics
 * [Physijs](https://github.com/chandlerprall/Physijs)
 
