@@ -38,6 +38,7 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 ## Networking & Multiplayer
 * [Opinion Synchronous RTS Engines and a Tale of Desyncs](http://www.gamasutra.com/view/news/126022/Opinion_Synchronous_RTS_Engines_And_A_Tale_of_Desyncs.php)
 * [What Every Programmer Need to Know About Game Networking](http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/)
+* [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/)
 
 ## Physics
 * [Physijs](https://github.com/chandlerprall/Physijs)
