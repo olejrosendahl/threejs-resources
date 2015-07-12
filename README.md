@@ -8,6 +8,9 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 ## Blogs
 * [john-chapman-graphics](http://john-chapman-graphics.blogspot.fr/)
 
+## Debugging
+* [Console Extras](https://github.com/unconed/console-extras.js)
+
 ## Demos
 
 ## Examples
@@ -31,7 +34,6 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 * [Stats.js](https://github.com/mrdoob/stats.js/)
 * [threex.rendererstats](https://github.com/jeromeetienne/threex.rendererstats)
 * [Google Web Tracing Framework](https://github.com/google/tracing-framework)
-* [Console Extras](https://github.com/unconed/console-extras.js)
 
 ## Physics
 * [Physijs](https://github.com/chandlerprall/Physijs)
