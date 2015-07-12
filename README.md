@@ -26,8 +26,12 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 * [Spark.js](https://github.com/zz85/sparks.js/) (included in Three.js)
 
 ## Performance
-* [optimizing-three-dot-js-performance-simulating-tens-of-thousands-of-independent-moving-objects](http://www.ianww.com/blog/2012/11/04/optimizing-three-dot-js-performance-simulating-tens-of-thousands-of-independent-moving-objects/)
+* [Optimizing Three.js Performance Simulating Thousands of Independent Moving Objects](http://www.ianww.com/blog/2012/11/04/optimizing-three-dot-js-performance-simulating-tens-of-thousands-of-independent-moving-objects/)
 * [Optimizing Performance (Google)](https://developers.google.com/web/fundamentals/performance/index?hl=en)
+* [Stats.js](https://github.com/mrdoob/stats.js/)
+* [threex.rendererstats](https://github.com/jeromeetienne/threex.rendererstats)
+* [Google Web Tracing Framework](https://github.com/google/tracing-framework)
+* [Console Extras](https://github.com/unconed/console-extras.js)
 
 ## Physics
 * [Physijs](https://github.com/chandlerprall/Physijs)
