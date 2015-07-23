@@ -46,6 +46,7 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 ## Shaders
 * [A Introduction to Shaders Part 1](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/)
 * [Experimenting with Three.js shaders and the ShaderMaterial](http://blog.2pha.com/experimenting-threejs-shaders-and-shadermaterial)
+* [Uniforms for Shaders](https://github.com/mrdoob/three.js/blob/master/src/renderers/shaders/UniformsLib.js)
 
 ## Slides
 * [How to use Threex Game extensions for Three.js](http://jsinside.com/data/how-to-use-threex-game-extension-for-threejs/slides/)
