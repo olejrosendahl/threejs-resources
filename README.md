@@ -3,15 +3,12 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 
 ## Animation
 * [Tween.js](https://github.com/tweenjs/tween.js/)
-* [Tween.js for Smooth Animation](http://learningthreejs.com/blog/2011/08/17/tweenjs-for-smooth-animation/)
 
 ## Blogs
 * [john-chapman-graphics](http://john-chapman-graphics.blogspot.fr/)
 
 ## Debugging
 * [Console Extras](https://github.com/unconed/console-extras.js)
-
-## Demos
 
 ## Examples
 * [Stemkoski's Examples](http://stemkoski.github.io/Three.js/)
@@ -57,3 +54,4 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 ## Tutorials
 * [Learning Three.js](http://learningthreejs.com/)
 * [Getting Started with Three.js](https://aerotwist.com/tutorials/getting-started-with-three-js/)
+* [Tween.js for Smooth Animation](http://learningthreejs.com/blog/2011/08/17/tweenjs-for-smooth-animation/)
