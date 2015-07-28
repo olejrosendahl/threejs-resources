@@ -10,6 +10,9 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 ## Debugging
 * [Console Extras](https://github.com/unconed/console-extras.js)
 
+## Effects
+* [Accurate Atmospheric Scattering](http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter16.html)
+
 ## Examples
 * [Stemkoski's Examples](http://stemkoski.github.io/Three.js/)
 
