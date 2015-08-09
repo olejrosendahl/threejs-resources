@@ -58,3 +58,6 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 * [Learning Three.js](http://learningthreejs.com/)
 * [Getting Started with Three.js](https://aerotwist.com/tutorials/getting-started-with-three-js/)
 * [Tween.js for Smooth Animation](http://learningthreejs.com/blog/2011/08/17/tweenjs-for-smooth-animation/)
+
+## Virtual Reality
+*  [Virtual Reality Controller](https://github.com/richtr/threeVR)
