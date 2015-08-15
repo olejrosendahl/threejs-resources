@@ -61,3 +61,6 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 
 ## Virtual Reality
 *  [Virtual Reality Controller](https://github.com/richtr/threeVR)
+
+## Video
+* [Math for Game Developers](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
