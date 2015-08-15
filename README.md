@@ -7,6 +7,10 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 ## Blogs
 * [john-chapman-graphics](http://john-chapman-graphics.blogspot.fr/)
 
+## Books
+* [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Development-Edition/dp/1568817231)
+* [Game Development with Three.js](http://www.amazon.com/Game-Development-Three-js-Isaac-Sukin-ebook/dp/B00G58JD4K/ref=sr_1_2?s=books&ie=UTF8&qid=1439619614&sr=1-2&keywords=threejs)
+
 ## Debugging
 * [Console Extras](https://github.com/unconed/console-extras.js)
 
