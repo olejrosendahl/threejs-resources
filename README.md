@@ -64,7 +64,7 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 * [Tween.js for Smooth Animation](http://learningthreejs.com/blog/2011/08/17/tweenjs-for-smooth-animation/)
 
 ## Virtual Reality
-*  [Virtual Reality Controller](https://github.com/richtr/threeVR)
+* [Virtual Reality Controller](https://github.com/richtr/threeVR)
 
 ## Video
 * [Math for Game Developers](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
