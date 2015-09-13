@@ -27,6 +27,7 @@ Collection of Articles, Blogs and Tutorials for Three.js related development
 ## Gamepads / Joysticks
 * [gamepadjs](http://www.gamepadjs.com/)
 * [HTML5 Virtual Game Controller](https://github.com/austinhallock/html5-virtual-game-controller)
+* [nipplejs](https://github.com/yoannmoinet/nipplejs) - A virtual joystick for touch capable interfaces.
 
 ## Particles
 * [ShaderParticleEngine](https://github.com/squarefeet/ShaderParticleEngine)
